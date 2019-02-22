@@ -6,4 +6,5 @@ Biomass burning aerosol over West Africa
 
 # Introduction
 This is the section where you reference other people's work and explain why your research is necessary.
+Haystack et al. made measurements (2012).
 
